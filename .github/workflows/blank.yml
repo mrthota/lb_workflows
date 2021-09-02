@@ -37,6 +37,7 @@ jobs:
           cat /etc/os-release
           df -kh
           id
+          mkdir testdir
           
 #name: Jenkins
 #on:           
